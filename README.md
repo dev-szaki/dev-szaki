@@ -65,8 +65,6 @@
 
 <div>
 
-![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=dev-szaki&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFF&border_color=FF6B35&hide_border=false)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dev-szaki&theme=dark&background=0D1117&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFF)](https://git.io/streak-stats)
 
 </div>
@@ -74,5 +72,5 @@
 ---
 
 <div>
-⭐ **Star this repo if you respect the Kyokugen spirit!** ⭐
+⭐ Star this repo if you respect the Kyokugen spirit! ⭐
 </div>
