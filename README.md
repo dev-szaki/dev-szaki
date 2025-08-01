@@ -61,7 +61,7 @@
 
 </div>
 
-## 🎯 Current Status / 現在の状況
+## 🎯 Current Status
 
 <div>
 
